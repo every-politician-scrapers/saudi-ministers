@@ -1,0 +1,21 @@
+id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q850168,King of Saudi Arabia,Q851,Q851,,Q20388005,1932-09-22,,Q62086293,,King of Saudi Arabia
+Q12251224,Crown Prince of Saudi Arabia,Q851,Q851,,,1745,,,,Crown Prince of Saudi Arabia
+Q1153839,Prime Minister of Saudi Arabia,Q851,Q851,,,,,,,Prime Minister of Saudi Arabia
+Q101555745,Minister of Civil Service,Q851,Q851,,,1999-06-15,,,,
+Q25556795,Minister of Defence,Q851,Q851,,,1944,,Q57587376,,
+Q79588209,Minister of Education,,Q851,,,,,,,
+Q60197575,Minister of Finance,Q851,Q851,,,1932,,,,
+Q22689140,Saudi Foreign Minister,Q851,Q851,,,1930-12-30,,,,
+Q105911981,Minister of Hajj and Umrah,Q851,Q851,,,,,,,
+Q98934272,Minister of Health,Q851,Q851,,Q12205070,,,,,
+Q105912086,Minister of Housing,Q851,Q851,,,,,,,
+Q59507344,Minister of Labor and Social Development,Q851,,,,,,,,
+Q104127725,Minister of Media,Q851,Q851,,Q104405853,,,,,
+Q56660969,Minister of National Guard,Q851,Q851,,,1955-05-05,,,,
+Q105644424,Minister of Petroleum and Mineral Resources,Q851,Q851,,,,,,,
+Q106807170,Minister of Trade and Investment,Q851,Q851,,,,,,,
+Q60149886,Minister of Transport,Q851,Q851,,,1953,,,,
+Q105045827,Minister of State,Q851,Q851,,,,,,,
+Q25462113,Chairman of the General Staff,Q851,,,,1925,,Q25450145,,Chairman of the General Staff
+Q100588974,President of the Supreme Court of Saudi Arabia,Q851,Q851,,,,,,,
