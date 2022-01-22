@@ -1,1 +1,4 @@
-ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q95487170,Q95487170,,,,,,,,,,,,,,,,
+,Q22689544,Council of Agents,1925-01-01,9,,,1953-01-01,9,,,,,Q14654732,Council of Ministers of Saudi Arabia,Q90529531,Q90529531,,
+,Q14654732,Council of Ministers of Saudi Arabia,1953-01-01,9,,,,,,,Q22689544,Council of Agents,,,,,,
