@@ -1,0 +1,199 @@
+{
+  "title": "Tawfig Al-Rabiah",
+  "pageID": 36874353,
+  "categories": [
+    "21st-century Saudi Arabian politicians",
+    "1965 births",
+    "Commerce and industry ministers",
+    "Health ministers of Saudi Arabia",
+    "King Saud University alumni",
+    "King Saud University faculty",
+    "Living people",
+    "People from Riyadh",
+    "University of Pittsburgh alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Tawfig F. AlRabiah (Arabic: توفيق بن فوزان الربيعة) (born 26 October 1965) is the current Minister of Hajj and Umrah for Saudi Arabia.",
+              "links": [
+                {
+                  "text": "Minister of Hajj and Umrah",
+                  "type": "internal",
+                  "page": "Ministry of Hajj and Umrah "
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Tawfig F. AlRabiah"
+                ]
+              }
+            },
+            {
+              "text": "He served as Minister of Health from May 2016 until October 2021 when he became Minister of Hajj."
+            },
+            {
+              "text": "He was the Minister for Commerce & Industry from December 2011 to May 2016."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "August 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "description": "Saudi Arabian politician",
+          "template": "short description"
+        },
+        {
+          "df": "yes",
+          "year": "1965",
+          "month": "10",
+          "day": "26",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Tawfig bin Fawzan AlRabiah"
+          },
+          "image": {
+            "text": "file:TawfigAlRabiah.png"
+          },
+          "caption": {
+            "text": "AlRabiah in 2019"
+          },
+          "office": {
+            "text": "Minister of Hajj and Umrah",
+            "links": [
+              {
+                "text": "Minister of Hajj and Umrah",
+                "type": "internal",
+                "page": "Ministry of Hajj and Umrah "
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Salman of Saudi Arabia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Salman of Saudi Arabia"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "15 October 2021"
+          },
+          "predecessor": {
+            "text": "Dr. Issam bin Saad bin Saeed"
+          },
+          "office1": {
+            "text": "Minister of Health",
+            "links": [
+              {
+                "text": "Minister of Health",
+                "type": "internal",
+                "page": "Ministry of Health (Saudi Arabia)"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Salman of Saudi Arabia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Salman of Saudi Arabia"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "7 May 2016"
+          },
+          "term_end1": {
+            "text": "15 October 2021"
+          },
+          "predecessor1": {
+            "text": "Khalid A. Al-Falih",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Khalid A. Al-Falih"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Fahd bin Abdulrahman bin Dahes Al-Jalajil"
+          },
+          "office2": {
+            "text": "Minister of Commerce and Industry"
+          },
+          "term_start2": {
+            "text": "13 December 2011"
+          },
+          "term_end2": {
+            "text": "6 May 2016"
+          },
+          "predecessor2": {
+            "text": "Abdullah Zainel Alireza"
+          },
+          "successor2": {
+            "text": "Majid bin Abdullah Al Qasabi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Majid bin Abdullah Al Qasabi"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Abdullah of Saudi Arabia (2011–2015) Salman of Saudi Arabia (2015–2016)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abdullah of Saudi Arabia"
+              },
+              {
+                "type": "internal",
+                "page": "Salman of Saudi Arabia"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "October 26, 1965"
+          },
+          "birth_place": {
+            "text": "Riyadh, Saudi Arabia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Riyadh"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "King Saud University The University of Pittsburgh",
+            "links": [
+              {
+                "type": "internal",
+                "page": "King Saud University"
+              },
+              {
+                "type": "internal",
+                "page": "The University of Pittsburgh"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
