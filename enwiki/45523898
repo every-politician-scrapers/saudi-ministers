@@ -1,0 +1,126 @@
+{
+  "title": "Majid bin Abdullah Al Qasabi",
+  "pageID": 45523898,
+  "categories": [
+    "20th-century Saudi Arabian engineers",
+    "21st-century Saudi Arabian engineers",
+    "21st-century Saudi Arabian politicians",
+    "1959 births",
+    "Government ministers of Saudi Arabia",
+    "King Abdulaziz University faculty",
+    "Living people",
+    "Missouri University of Science and Technology alumni",
+    "People from Jeddah",
+    "Saudi Arabian academics",
+    "University of Portland alumni",
+    "University of California, Berkeley alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Majid bin Abdullah Al Qasabi is the minister of commerce and acting minister of media of Saudi Arabia.",
+              "links": [
+                {
+                  "text": "minister of commerce",
+                  "type": "internal",
+                  "page": "Ministry of Commerce (Saudi Arabia)"
+                },
+                {
+                  "text": "minister of media",
+                  "type": "internal",
+                  "page": "Ministry of Media (Saudi Arabia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Saudi Arabia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Majid bin Abdullah Al Qasabi"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Saudi Arabian politician",
+          "template": "short description"
+        },
+        {
+          "birth_year": "1959",
+          "template": "birth year and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "office": {
+            "text": "Minister of Commerce \nActing Minister of Media of Saudi Arabia"
+          },
+          "country": {
+            "text": "Saudi Arabia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Saudi Arabia"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "25 Feb 2020"
+          },
+          "predecessor": {
+            "text": "Turki Al-Shabanah",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Turki Al-Shabanah"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Salman of Saudi Arabia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Salman of Saudi Arabia"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "1959 (age 63)"
+          },
+          "birth_place": {
+            "text": "Jeddah, Saudi Arabia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jeddah"
+              },
+              {
+                "type": "internal",
+                "page": "Saudi Arabia"
+              }
+            ]
+          },
+          "image": {
+            "text": "Majid bin Abdullah Al-Qasabi.jpg"
+          },
+          "image_size": {
+            "text": "150px"
+          },
+          "caption": {
+            "text": "Majid bin Abdullah Al Qasabi in 2019"
+          }
+        }
+      ]
+    }
+  ]
+}
