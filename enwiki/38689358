@@ -111,132 +111,7 @@
         {
           "sentences": [
             {
-              "text": "Bin Salman rules an authoritarian regime.",
-              "links": [
-                {
-                  "text": "authoritarian regime",
-                  "type": "internal",
-                  "page": "authoritarian regime"
-                }
-              ]
-            },
-            {
-              "text": "There are no democratic institutions in Saudi Arabia, and elements of repression are still evident."
-            },
-            {
-              "text": "Human rights activists, women's rights activists, journalists, former insiders, and dissidents are systematically repressed through tactics including torture, jailing, and killings, and bin Salman is said to use a group of assassins known as the Tiger Squad to carry out extrajudicial killings.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Tiger Squad"
-                },
-                {
-                  "text": "extrajudicial killings",
-                  "type": "internal",
-                  "page": "extrajudicial killing"
-                }
-              ]
-            },
-            {
-              "text": "He was personally linked to the assassination of Jamal Khashoggi, a Washington Post columnist who had criticized the Saudi government, but he has denied involvement in the killing.",
-              "links": [
-                {
-                  "text": "assassination",
-                  "type": "internal",
-                  "page": "assassination of Jamal Khashoggi"
-                },
-                {
-                  "type": "internal",
-                  "page": "Jamal Khashoggi"
-                },
-                {
-                  "type": "internal",
-                  "page": "Washington Post"
-                }
-              ],
-              "formatting": {
-                "italic": [
-                  "Washington Post"
-                ]
-              }
-            },
-            {
-              "text": "Bin Salman was behind the Saudi bombing campaign in Yemen which has exacerbated the humanitarian crisis and famine there.",
-              "links": [
-                {
-                  "text": "Saudi bombing campaign in Yemen",
-                  "type": "internal",
-                  "page": "Saudi Arabian-led intervention in Yemen"
-                },
-                {
-                  "text": "famine",
-                  "type": "internal",
-                  "page": "Famine in Yemen (2016–present)"
-                }
-              ]
-            },
-            {
-              "text": "His government has overseen a crackdown on feminists.",
-              "links": [
-                {
-                  "text": "crackdown on feminists",
-                  "type": "internal",
-                  "page": "2018–2019 Saudi crackdown on feminists"
-                }
-              ]
-            },
-            {
-              "text": "Bin Salman was also involved in the escalation of the Qatar diplomatic crisis, the detention of Lebanese Prime Minister Saad Hariri, the start of a diplomatic spat with Canada, the arrest of Saudi princes and billionaires in November 2017, the alleged phone hack against Amazon chairman Jeff Bezos, and treason charges against his cousin and rival Muhammad bin Nayef in March 2020.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Qatar diplomatic crisis"
-                },
-                {
-                  "text": "detention",
-                  "type": "internal",
-                  "page": "2017 Lebanon–Saudi Arabia dispute"
-                },
-                {
-                  "type": "internal",
-                  "page": "Saad Hariri"
-                },
-                {
-                  "text": "diplomatic spat with Canada",
-                  "type": "internal",
-                  "page": "Canada–Saudi Arabia relations",
-                  "anchor": "August 2018 diplomatic dispute"
-                },
-                {
-                  "text": "arrest of Saudi princes and billionaires",
-                  "type": "internal",
-                  "page": "2017–19 Saudi Arabian purge"
-                },
-                {
-                  "text": "phone hack",
-                  "type": "internal",
-                  "page": "Jeff Bezos phone hacking"
-                },
-                {
-                  "text": "Amazon",
-                  "type": "internal",
-                  "page": "Amazon (company)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Jeff Bezos"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Bin Salman has touted reforms in an effort to rebrand his regime's image internationally and within the Kingdom."
-            },
-            {
-              "text": "These include regulations restricting the powers of the religious police, the removal of the ban on female drivers in June 2018, and weakening the male-guardianship system in August 2019.",
+              "text": "Bin Salman has touted reforms inside the kingdom, These include regulations restricting the powers of the religious police, the removal of the ban on female drivers in June 2018, and weakening the male-guardianship system in August 2019.",
               "links": [
                 {
                   "text": "ban on female drivers",
@@ -377,10 +252,7 @@
         },
         {
           "image": {
-            "text": "File:Mohammad bin Salman October 2019 (cropped).jpg"
-          },
-          "caption": {
-            "text": "Mohammed bin Salman in 2019"
+            "text": "File:Secretary Pompeo Meets With Saudi Crown Prince Mohammed bin Salman (32862953548) (cropped).jpg"
           },
           "alt": {
             "text": "A photograph of Mohammed bin Salman aged 34"
