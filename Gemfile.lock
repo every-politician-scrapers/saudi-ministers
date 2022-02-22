@@ -6,6 +6,21 @@ GIT
       nokogiri
 
 GIT
+  remote: https://github.com/everypolitician/wikidata-fetcher.git
+  revision: cb919d174cfcae94983380fe6b4a1e07874f7029
+  specs:
+    wikidata-fetcher (0.24.0)
+      json
+      mediawiki_api
+      nokogiri
+      require_all
+      rest-client
+      scraperwiki
+      wikidata-client (~> 0.0.7)
+      wikisnakker
+      yajl-ruby
+
+GIT
   remote: https://github.com/everypolitician/wikidata_ids_decorator.git
   revision: 17265d480df935631957a8188de38bdd42cbd29f
   specs:
@@ -16,10 +31,10 @@ GIT
 
 GIT
   remote: https://github.com/tmtmtmtm/every-politician-scraper.git
-  revision: b9ef90a5ba752bc02daca7214e48a26e41acc433
+  revision: 7cad6accbee0403417cacf51d6b2fe40c6ad367b
   branch: main
   specs:
-    every-politician-scraper (0.2.7)
+    every-politician-scraper (0.4.0)
       daff (~> 1.3.0)
       scraped (~> 0.5)
 
@@ -28,12 +43,10 @@ GEM
   specs:
     ast (2.4.2)
     coderay (1.1.3)
-    colorize (0.8.1)
     daff (1.3.27)
-    diskcached (1.1.3)
     domain_name (0.5.20190701)
       unf (>= 0.0.5, < 1.0.0)
-    excon (0.90.0)
+    excon (0.91.0)
     faraday (0.17.4)
       multipart-post (>= 1.2, < 3)
     faraday-cookie_jar (0.0.7)
@@ -116,17 +129,6 @@ GEM
       faraday (~> 0.9)
       faraday_middleware (~> 0.9)
       hashie (~> 3.3)
-    wikidata-fetcher (0.19.1)
-      colorize
-      diskcached
-      json
-      mediawiki_api
-      nokogiri
-      require_all
-      rest-client
-      scraperwiki
-      wikidata-client (~> 0.0.7)
-      wikisnakker
     wikisnakker (0.9.1)
       require_all
       yajl-ruby
@@ -137,13 +139,14 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  every-politician-scraper (= 0.2.7)!
+  every-politician-scraper (= 0.4.0)!
   open-uri-cached
   pry
   rake
   reek (~> 6.0)
   rubocop (~> 0.89)
   table_unspanner!
+  wikidata-fetcher (~> 0.21)!
   wikidata_ids_decorator!
 
 RUBY VERSION
