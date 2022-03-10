@@ -1,136 +1,16 @@
 {
-  "title": "Abdullah bin Bandar Al Saud",
-  "pageID": 59498921,
-  "categories": [
-    "21st-century Saudi Arabian politicians",
-    "1986 births",
-    "Government ministers of Saudi Arabia",
-    "Grandsons of Abdulaziz of Saudi Arabia",
-    "King Saud University alumni",
-    "Living people",
-    "People from Riyadh"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Abdullah bin Bandar bin Abdulaziz Al Saud (Arabic: عبدالله بن بندر بن عبدالعزيز آل سعود) is the Minister of National Guard (Saudi Arabia).",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Arabic"
-                },
-                {
-                  "text": "Minister of National Guard",
-                  "type": "internal",
-                  "page": "Saudi Arabian National Guard"
-                },
-                {
-                  "type": "internal",
-                  "page": "Saudi Arabia"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Abdullah bin Bandar bin Abdulaziz Al Saud"
-                ]
-              }
-            },
-            {
-              "text": "He was appointed to the post on 27 December 2018."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "July 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1986",
-          "month": "8",
-          "day": "07",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "child": {
-            "text": "yes"
-          },
-          "alma mater": {
-            "text": "King Saud University"
-          }
-        },
-        {
-          "image": {
-            "text": "عبدالله بن بندر.jpg"
-          },
-          "caption": {
-            "text": "Abdullah bin Bandar in 2018"
-          },
-          "office": {
-            "text": "Minister of the National Guard",
-            "links": [
-              {
-                "text": "Minister of the National Guard",
-                "type": "internal",
-                "page": "Council of Ministers of Saudi Arabia"
-              }
-            ]
-          },
-          "monarch": {
-            "text": "Salman",
-            "links": [
-              {
-                "text": "Salman",
-                "type": "internal",
-                "page": "Salman of Saudi Arabia"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "King Salman"
-          },
-          "country": {
-            "text": "Saudi Arabia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Saudi Arabia"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "27 December 2018"
-          },
-          "predecessor": {
-            "text": "Khalid bin Abdulaziz bin Mohammed bin Ayyaf Al Muqrin"
-          },
-          "birth_date": {
-            "text": "August 7, 1986"
-          },
-          "birth_place": {
-            "text": "Riyadh, Saudi Arabia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Riyadh"
-              },
-              {
-                "type": "internal",
-                "page": "Saudi Arabia"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "child": "yes",
+  "alma mater": "King Saud University"
+}
+{
+  "image": "عبدالله بن بندر.jpg",
+  "caption": "Abdullah bin Bandar in 2018",
+  "office": "Minister of the National Guard",
+  "monarch": "Salman",
+  "primeminister": "King Salman",
+  "country": "Saudi Arabia",
+  "term_start": "27 December 2018",
+  "predecessor": "Khalid bin Abdulaziz bin Mohammed bin Ayyaf Al Muqrin",
+  "birth_date": "August 7, 1986",
+  "birth_place": "Riyadh, Saudi Arabia"
 }

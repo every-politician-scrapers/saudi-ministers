@@ -1,227 +1,34 @@
 {
-  "title": "Abdulaziz bin Salman Al Saud",
-  "pageID": 35154255,
-  "categories": [
-    "20th-century Saudi Arabian politicians",
-    "21st-century Saudi Arabian politicians",
-    "1960 births",
-    "Children of Salman of Saudi Arabia",
-    "Petroleum and mineral resources ministers of Saudi Arabia",
-    "Grandsons of Abdulaziz of Saudi Arabia",
-    "King Fahd University of Petroleum and Minerals alumni",
-    "King Fahd University of Petroleum and Minerals faculty",
-    "Living people",
-    "Sons of kings of Saudi Arabia"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Abdulaziz bin Salman Al Saud (عبد العزيز بن سلمان آل سعود ʿAbd al ʿAzīz bin Salman Al Suʿūd; born 1960) is a Saudi royal and politician who has served as the Saudi Arabian minister of energy since September 2019.",
-              "links": [
-                {
-                  "text": "Saudi royal",
-                  "type": "internal",
-                  "page": "House of Saud"
-                },
-                {
-                  "text": "Saudi Arabian minister of energy",
-                  "type": "internal",
-                  "page": "Ministry of Energy (Saudi Arabia)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Abdulaziz bin Salman Al Saud"
-                ],
-                "italic": [
-                  "ʿAbd al ʿAzīz bin Salman Al Suʿūd"
-                ]
-              }
-            },
-            {
-              "text": "He is the first royal to serve as energy minister."
-            },
-            {
-              "text": "He was the assistant oil minister of Saudi Arabia between 2005 and 2017."
-            },
-            {
-              "text": "In 2017, he was made state minister for energy affairs."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Saudi royal and politician (born 1960)",
-          "template": "short description"
-        },
-        {
-          "date": "June 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "birth_year": "1960",
-          "template": "birth year and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "child": {
-            "text": "yes"
-          },
-          "alma mater": {
-            "text": "King Fahd University of Petroleum and Minerals",
-            "links": [
-              {
-                "type": "internal",
-                "page": "King Fahd University of Petroleum and Minerals"
-              }
-            ]
-          }
-        },
-        {
-          "image": {
-            "text": "Abdulaziz bin Salman bin Abdulaziz Al Saud (2021) (cropped).jpg"
-          },
-          "spouse": {
-            "text": "Sara bint Khalid bin Musa'ad bin Abdulaziz"
-          },
-          "full name": {
-            "text": "Abdulaziz bin Salman bin Abdulaziz bin Abdul Rahman Al Saud"
-          },
-          "succession": {
-            "text": "Minister of Energy"
-          },
-          "reign": {
-            "text": "8 September 2019 &ndash; present"
-          },
-          "reign-type": {
-            "text": "In office"
-          },
-          "reg-type": {
-            "text": "Monarch"
-          },
-          "regent": {
-            "text": "King Salman",
-            "links": [
-              {
-                "text": "King Salman",
-                "type": "internal",
-                "page": "Salman of Saudi Arabia"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Khalid al-Falih",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Khalid al-Falih"
-              }
-            ]
-          },
-          "succession1": {
-            "text": "State Minister for Energy Affairs"
-          },
-          "reign1": {
-            "text": "22 April 2017 – 8 September 2019"
-          },
-          "reign-type1": {
-            "text": "In office"
-          },
-          "reg-type1": {
-            "text": "Monarch"
-          },
-          "regent1": {
-            "text": "King Salman"
-          },
-          "succession2": {
-            "text": "Assistant Minister of Petroleum and Mineral Resources"
-          },
-          "reign2": {
-            "text": "2005 &ndash; 22 April 2017"
-          },
-          "reign-type2": {
-            "text": "In office"
-          },
-          "reg-type2": {
-            "text": "Monarch"
-          },
-          "regent2": {
-            "text": "King Abdullah King Salman",
-            "links": [
-              {
-                "text": "King Abdullah",
-                "type": "internal",
-                "page": "Abdullah of Saudi Arabia"
-              },
-              {
-                "text": "King Salman",
-                "type": "internal",
-                "page": "Salman of Saudi Arabia"
-              }
-            ]
-          },
-          "succession3": {
-            "text": "Deputy Minister of Petroleum and Mineral Resources",
-            "links": [
-              {
-                "text": "Petroleum and Mineral Resources",
-                "type": "internal",
-                "page": "Ministry of Petroleum and Mineral Resources of Saudi Arabia"
-              }
-            ]
-          },
-          "reign3": {
-            "text": "July 1995 &ndash; 2005"
-          },
-          "reign-type3": {
-            "text": "In office"
-          },
-          "reg-type3": {
-            "text": "Monarch"
-          },
-          "regent3": {
-            "text": "King Fahd King Abdullah",
-            "links": [
-              {
-                "text": "King Fahd",
-                "type": "internal",
-                "page": "Fahd of Saudi Arabia"
-              }
-            ]
-          },
-          "father": {
-            "text": "King Salman"
-          },
-          "mother": {
-            "text": "Sultana bint Turki Al Sudairi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sultana bint Turki Al Sudairi"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "1960 (age 62)"
-          },
-          "house": {
-            "text": "House of Saud",
-            "links": [
-              {
-                "type": "internal",
-                "page": "House of Saud"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "child": "yes",
+  "alma mater": "King Fahd University of Petroleum and Minerals"
+}
+{
+  "image": "Abdulaziz bin Salman bin Abdulaziz Al Saud (2021) (cropped).jpg",
+  "spouse": "Sara bint Khalid bin Musa'ad bin Abdulaziz",
+  "full name": "Abdulaziz bin Salman bin Abdulaziz bin Abdul Rahman Al Saud",
+  "succession": "Minister of Energy",
+  "reign": "8 September 2019 &ndash; present",
+  "reign-type": "In office",
+  "reg-type": "Monarch",
+  "regent": "King Salman",
+  "predecessor": "Khalid al-Falih",
+  "succession1": "State Minister for Energy Affairs",
+  "reign1": "22 April 2017 – 8 September 2019",
+  "reign-type1": "In office",
+  "reg-type1": "Monarch",
+  "regent1": "King Salman",
+  "succession2": "Assistant Minister of Petroleum and Mineral Resources",
+  "reign2": "2005 &ndash; 22 April 2017",
+  "reign-type2": "In office",
+  "reg-type2": "Monarch",
+  "regent2": "King Abdullah King Salman",
+  "succession3": "Deputy Minister of Petroleum and Mineral Resources",
+  "reign3": "July 1995 &ndash; 2005",
+  "reign-type3": "In office",
+  "reg-type3": "Monarch",
+  "regent3": "King Fahd King Abdullah",
+  "father": "King Salman",
+  "mother": "Sultana bint Turki Al Sudairi",
+  "birth_date": "1960 (age 62)",
+  "house": "House of Saud"
 }
