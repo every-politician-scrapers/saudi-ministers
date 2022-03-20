@@ -1,17 +1,4 @@
 {
-  "color": "#e4dcf6",
-  "termstart": "23 January 2015",
-  "predecessor": "Abdullah bin Abdulaziz"
-}
-{
-  "termstart": "16 June 2012",
-  "termend": "23 January 2015",
-  "monarch": "Abdullah",
-  "primeminister": "King Abdullah",
-  "predecessor": "Nayef bin Abdulaziz",
-  "successor": "Muqrin bin Abdulaziz"
-}
-{
   "termstart": "5 November 2011",
   "termend": "23 January 2015",
   "primeminister": "King Abdullah",
@@ -46,7 +33,19 @@
   "caption": "King Salman in 2020",
   "alt": "Photograph of King Salman in his 85th year",
   "succession": "King and Prime Minister of Saudi Arabia",
+  "reign": "23 January 2015 – present",
+  "cor-type": "Bay'ah",
+  "coronation": "23 January 2015",
+  "predecessor": "Abdullah bin Abdulaziz",
+  "suc-type": "Heir apparent",
+  "successor": "Muqrin bin Abdulaziz (2015)\n\nMuhammad bin Nayef (2015&ndash;17)\n\nMohammed bin Salman (2017&ndash;present)",
   "succession1": "Crown Prince of Saudi Arabia\nDeputy Prime Minister",
+  "reign1": "16 June 2012 – 23 January 2015",
+  "reign-type1": "Tenure",
+  "reg-type1": "King and Prime Minister",
+  "regent1": "Abdullah",
+  "predecessor1": "Nayef bin Abdulaziz",
+  "successor1": "Muqrin bin Abdulaziz",
   "succession2": "Minister of Defense",
   "succession3": "Governor of Riyadh Province",
   "succession4": "Deputy Governor of Riyadh Province",
