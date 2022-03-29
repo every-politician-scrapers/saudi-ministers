@@ -2,6 +2,10 @@ id,name,relationship,relative,relativename
 Q107677656,Abdullah bin Saud Alanazi,sibling,Q22688693,Saoud Anzi
 Q12231210,Fahd bin Turki Al Saud,father,Q2460829,Turki II bin Abdul-Aziz Al Saud
 Q12231669,Faisal bin Mishaal bin Saud bin Abdulaziz Al Saud,father,Q12243174,Mishaal bin Saud
+Q16933359,Moudi bint Khalid Al Saud,child,Q62094755,Al-Bandari Bint Abdul Rahman Al-Faisal
+Q16933359,Moudi bint Khalid Al Saud,father,Q208301,Khalid of Saudi Arabia
+Q16933359,Moudi bint Khalid Al Saud,mother,Q7531591,Sita bint Fahd Al Damir
+Q16933359,Moudi bint Khalid Al Saud,sibling,Q338524,Faisal bin Khalid bin Abdulaziz Al Saud
 Q183187,Fahd bin Abdulaziz Al Saud,child,Q14514894,Saud bin Fahd Al Saud
 Q183187,Fahd bin Abdulaziz Al Saud,child,Q1951883,Mohammad Bin Fahd
 Q183187,Fahd bin Abdulaziz Al Saud,child,Q373425,Faisal bin Fahd
