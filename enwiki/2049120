@@ -29,8 +29,6 @@
 {
   "name": "Salman",
   "title": "Custodian of the Two Holy Mosques",
-  "image": "File:Salman of Saudi Arabia - 2020 (49563590728) (cropped).jpg",
-  "caption": "King Salman in 2020",
   "alt": "Photograph of King Salman in his 85th year",
   "succession": "King and Prime Minister of Saudi Arabia",
   "reign": "23 January 2015 – present",
@@ -62,7 +60,6 @@
 }
 {
   "name": "King Salman",
-  "image": "File:EmblemSA.svg",
   "image_size": "80",
   "reference": "Custodian of the Two Holy Mosques",
   "spoken": "Your Majesty"
