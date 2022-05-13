@@ -152,6 +152,10 @@
       ],
       "templates": [
         {
+          "description": "Cabinet of the Kingdom of Saudi Arabia",
+          "template": "short description"
+        },
+        {
           "template": "politics of saudi arabia"
         },
         {
