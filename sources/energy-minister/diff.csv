@@ -1,7 +1,4 @@
-@@,itemlabel,item,startdate,enddate
-+++,Abdullah Tariki,Q4666093,1960-12,1962-03-09
-+++,Ahmed Zaki Yamani,Q401574,1962-03-09,1986-10-05
-+++,Hisham Nazer,Q5772569,1986-12-24,1995-08-02
-+++,Ali Naimi,Q2067470,1995-08-02,2016-05-07
-->,Khalid A. Al-Falih,Q6399442,2019-08->2016-05-07,2019-09-08
-->,Abdulaziz bin Salman->Abdulaziz bin Salman Al Saud,Q4665821,2019-09-08,
+@@,item,itemlabel,startdate,enddate
++++,Q2067470,Ali Naimi,1995-08-02,2016-05-07
+->,Q6399442,Khalid A. Al-Falih,2019-08->2016-05-07,2019-09-08
+->,Q4665821,Abdulaziz bin Salman->Abdulaziz bin Salman Al Saud,2019-09-08,
