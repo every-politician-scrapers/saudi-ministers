@@ -1,22 +1,11 @@
-@@,itemlabel,item,startdate,enddate
----,Abdullah bin Faisal Al Saud,Q4165546,1950,1953
----,Rashad Pharaon,Q1268537,1953,1960
----,Hassan bin Yousef Nassief,Q12207938,1960,1961
----,Hamid bin Mohammad Al Harsani,Q60573919,1961,1962
----,Yousef Bin Yaqoub Al Hairi,Q30082015,1962,1966
----,Ḥasan ʻAbd Allāh Āl al-Shaykh,Q12207930,1966,1970
----,Jamil Ibrahim Hejailan,Q1681431,1970,1974
----,Abdulaziz ِAl Khwaiter,Q12222960,1974-02-20,1975-10-14
----,Hussein Abdul Razzaq Gezairy,Q12208172,1975,1982
----,Ghazi Abdul Rahman Al Gosaibi,Q471044,1982,1983
----,Faisal al-Hegelan,Q20412002,1983,1995
-->,Ossama bin Abdul Majed Shobokshi->Dr. Osama bin Abdulmageed Shobukshi,Q2034586,1995,2003
-->,Abdullah bin Abdulaziz Al Rabiah->Abdullah bin Abdulaziz Al Rabeeah,Q4666101,2009,2014
-->,Khalid A. Al-Falih->Khalid Al Falih,Q6399442,2015,2016
----,Ahmad Aqil al-Khatib,Q61755190,2015,2015
----,Mohammed Al-Hayaza,Q27881383,2015,2015
-+++,Ahmed Al Khatib,,2015,
-+++,Mohammed Al Hayaza,,2015,
-->,Tawfiq Al Rabiah->Tawfig Al Rabiah,Q7689265,2016-05-07,2021-10-15
-+++,Eng. Fahad A. AlJalajel,,2021,
----,Fahad bin Abdurrahman Al-Jalajel,Q108904593,2021-10-15,
+@@,item,itemlabel,startdate,enddate
+->,Q2034586,Ossama bin Abdul Majed Shobokshi->Dr. Osama bin Abdulmageed Shobukshi,1995,2003
+->,Q4666101,Abdullah bin Abdulaziz Al Rabiah->Abdullah bin Abdulaziz Al Rabeeah,2009,2014
+->,Q6399442,Khalid A. Al-Falih->Khalid Al Falih,2015,2016
+---,Q61755190,Ahmad Aqil al-Khatib,2015,2015
+---,Q27881383,Mohammed Al-Hayaza,2015,2015
++++,,Ahmed Al Khatib,2015,
++++,,Mohammed Al Hayaza,2015,
+->,Q7689265,Tawfiq Al Rabiah->Tawfig Al Rabiah,2016-05-07,2021-10-15
++++,,Eng. Fahad A. AlJalajel,2021,
+---,Q108904593,Fahad bin Abdurrahman Al-Jalajel,2021-10-15,
