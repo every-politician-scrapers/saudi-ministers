@@ -1,8 +1,4 @@
-@@,itemlabel,item,startdate,enddate
----,Ibn Saud,Q151509,1932-09-22,1953-11-09
----,Saud of Saudi Arabia,Q244206,1953-11-09,1964-11-02
----,King Faisal bin Abdulaziz Al Saud,Q217167,1964-11-02,1975-03-25
----,Khalid of Saudi Arabia,Q208301,1975-03-25,1982-06-13
-->,Fahd bin Abdulaziz Al Saud->Fahd,Q183187,1982-06-13,2005-08-01
-->,Abdullah of Saudi Arabia->Abdullah,Q57298,2005-08-01,2015-01-23
-->,Salman of Saudi Arabia->Salman,Q367825,2015-01-23,
+@@,item,itemlabel,startdate,enddate
+->,Q183187,Fahd bin Abdulaziz Al Saud->Fahd,1982-06-13,2005-08-01
+->,Q57298,Abdullah of Saudi Arabia->Abdullah,2005-08-01,2015-01-23
+->,Q367825,Salman of Saudi Arabia->Salman,2015-01-23,

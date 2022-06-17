@@ -1,11 +1,4 @@
-@@,itemlabel,item,startdate,enddate
----,Mohsen al-Husayn,Q57540711,1944,1949
----,Abdullah al-Issa,Q86666747,1957,1959
----,Ibrahim al-Tassan,Q84957031,1959-10-17,1963-05-11
----,Abdullah al-Mutlaq,Q94471326,1963,1971
----,Hamad Shammemry,Q96756295,1971,1975
----,Uthman al-Humayd,Q93766497,1975-10-20,1980-01-01
----,Mohammed al-Hamad,Q86638223,1980-01-01,1996-09-26
-->,Saleh Al-Muhaya->Saleh al-Mahaya,Q3362792,1996-09-26,2011-05-20
-->,Abdul Rahman Al Banyan->Abdulrahman al-Bunyan,Q25450147,2014-05-14,2018-02-26
-->,Fayyadh Al Ruwaili->Fayyadh al-Ruwaili,Q56250519,2018-02-26,
+@@,item,itemlabel,startdate,enddate
+->,Q3362792,Saleh Al-Muhaya->Saleh al-Mahaya,1996-09-26,2011-05-20
+->,Q25450147,Abdul Rahman Al Banyan->Abdulrahman al-Bunyan,2014-05-14,2018-02-26
+->,Q56250519,Fayyadh Al Ruwaili->Fayyadh al-Ruwaili,2018-02-26,
