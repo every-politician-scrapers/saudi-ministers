@@ -493,12 +493,12 @@
           },
           {
             "Portfolio": {
-              "text": "Minister of Commerce and Investment",
+              "text": "Minister of Commerce",
               "links": [
                 {
-                  "text": "Minister of Commerce and Investment",
+                  "text": "Minister of Commerce",
                   "type": "internal",
-                  "page": "Ministry of Commerce and Investment (Saudi Arabia)"
+                  "page": "Ministry of Commerce (Saudi Arabia)"
                 }
               ]
             },
@@ -514,6 +514,24 @@
             "Since": {
               "text": "2016",
               "number": 2016
+            }
+          },
+          {
+            "Portfolio": {
+              "text": "Minister of Investment"
+            },
+            "Minister": {
+              "text": "Khalid A. Al-Falih",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Khalid A. Al-Falih"
+                }
+              ]
+            },
+            "Since": {
+              "text": "2020",
+              "number": 2020
             }
           },
           {
@@ -745,10 +763,10 @@
           },
           {
             "Portfolio": {
-              "text": "Minister of Labor and Social Development",
+              "text": "Minister of Human Resources and Social Development",
               "links": [
                 {
-                  "text": "Minister of Labor and Social Development",
+                  "text": "Minister of Human Resources and Social Development",
                   "type": "internal",
                   "page": "Ministry of Human Resources and Social Development (Saudi Arabia)"
                 }
@@ -766,6 +784,32 @@
             "Since": {
               "text": "2018",
               "number": 2018
+            }
+          },
+          {
+            "Portfolio": {
+              "text": "Minister of Sport",
+              "links": [
+                {
+                  "text": "Minister of Sport",
+                  "type": "internal",
+                  "page": "Ministry of Sport (Saudi Arabia)"
+                }
+              ]
+            },
+            "Minister": {
+              "text": "Abdulaziz bin Turki bin Faisal Al Saud",
+              "links": [
+                {
+                  "text": "Abdulaziz bin Turki bin Faisal Al Saud",
+                  "type": "internal",
+                  "page": "Abdulaziz bin Turki Al Saud"
+                }
+              ]
+            },
+            "Since": {
+              "text": "2020",
+              "number": 2020
             }
           },
           {
@@ -991,6 +1035,16 @@
           "access-date": "2018-12-30",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "date": "February 25, 2020",
+          "title": "Royal Orders Issued 3 Riyadh",
+          "url": "https://www.spa.gov.sa/2039164",
+          "url-status": "live",
+          "access-date": "June 22, 2022",
+          "website": "Saudi Press Agency",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
@@ -1020,6 +1074,9 @@
                   "page": "Council of Economic and Development Affairs (Saudi Arabia)"
                 }
               ]
+            },
+            {
+              "text": "tt"
             }
           ]
         }
@@ -1027,7 +1084,7 @@
       "references": [
         {
           "url": "http://tradebridgeconsultants.com/news/reshuffles/king-salman-reorganises-cabinet/",
-          "title": "Saudi Arabia - Government - King Salman reorganizes Cabinet - Trade Bridge Consultants",
+          "title": "Saudi Arabia - Government dd- King Salman reorganizes Cabinet - Trade Bridge Consultants",
           "access-date": "25 October 2016",
           "archive-url": "https://web.archive.org/web/20161025180119/http://tradebridgeconsultants.com/news/reshuffles/king-salman-reorganises-cabinet/",
           "archive-date": "25 October 2016",
