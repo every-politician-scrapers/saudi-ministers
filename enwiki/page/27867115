@@ -1093,10 +1093,14 @@
           "type": "web"
         },
         {
+          "url": "http://belfercenter.ksg.harvard.edu/files/PreparingSaudiFuture.pdf",
+          "title": "Archived copy",
+          "access-date": "25 October 2016",
+          "archive-date": "25 October 2016",
+          "archive-url": "https://web.archive.org/web/20161025235021/http://belfercenter.ksg.harvard.edu/files/PreparingSaudiFuture.pdf",
+          "url-status": "dead",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "url": "https://www.wsj.com/articles/saudi-king-reshuffles-cabinet-keeps-oil-minister-in-place-1422560650",
