@@ -151,7 +151,7 @@
             "text": "23 October 2019"
           },
           "office1": {
-            "text": "Saudi ambassador to Germany"
+            "text": "Saudi Ambassador to Germany"
           },
           "termstart1": {
             "text": "27 March 2019"
@@ -210,7 +210,13 @@
               "text": "Prince Faisal is a member of the Saudi royal family."
             },
             {
-              "text": "A son of Prince Farhan bin Abdullah Al Saud, he was born on 1 November 1974 in West Germany and was educated in the US."
+              "text": "A son of Prince Farhan bin Abdullah Al Saud, he was born on 1 November 1974 in West Germany."
+            },
+            {
+              "text": "He's the only member of the royal family not to be born in Saudi Arabia."
+            },
+            {
+              "text": "He was educated in the US."
             },
             {
               "text": "He served as an adviser at the Saudi Arabian Embassy in the US from 2017 to 2019.",
@@ -509,7 +515,7 @@
           "template": "s-bef"
         },
         {
-          "title": "Saudi ambassador to Germany",
+          "title": "Saudi Ambassador to Germany",
           "years": "2019–present",
           "template": "s-ttl"
         },
