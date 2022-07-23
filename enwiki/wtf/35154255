@@ -2,16 +2,18 @@
   "title": "Abdulaziz bin Salman Al Saud",
   "pageID": 35154255,
   "categories": [
-    "20th-century Saudi Arabian politicians",
-    "21st-century Saudi Arabian politicians",
     "1960 births",
+    "Living people",
     "Children of Salman of Saudi Arabia",
+    "Saudi Arabian princes",
     "Energy ministers of Saudi Arabia",
     "Petroleum and mineral resources ministers of Saudi Arabia",
     "King Fahd University of Petroleum and Minerals alumni",
     "King Fahd University of Petroleum and Minerals faculty",
-    "Living people",
-    "Saudi Arabian princes"
+    "20th-century Saudi Arabian politicians",
+    "21st-century Saudi Arabian politicians",
+    "Place of birth missing (living people)",
+    "Date of birth missing (living people)"
   ],
   "sections": [
     {
@@ -763,13 +765,13 @@
           "template": "commons-inline"
         },
         {
+          "template": "wikiquote-inline"
+        },
+        {
           "template": "oil ministers of saudi arabia"
         },
         {
           "template": "authority control"
-        },
-        {
-          "template": "wikiquote"
         }
       ]
     }
