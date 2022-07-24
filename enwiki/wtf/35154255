@@ -2,6 +2,8 @@
   "title": "Abdulaziz bin Salman Al Saud",
   "pageID": 35154255,
   "categories": [
+    "20th-century Saudi Arabian politicians",
+    "21st-century Saudi Arabian politicians",
     "1960 births",
     "Living people",
     "Children of Salman of Saudi Arabia",
@@ -10,10 +12,8 @@
     "Petroleum and mineral resources ministers of Saudi Arabia",
     "King Fahd University of Petroleum and Minerals alumni",
     "King Fahd University of Petroleum and Minerals faculty",
-    "20th-century Saudi Arabian politicians",
-    "21st-century Saudi Arabian politicians",
-    "Place of birth missing (living people)",
-    "Date of birth missing (living people)"
+    "Date of birth missing (living people)",
+    "Place of birth missing (living people)"
   ],
   "sections": [
     {
@@ -74,6 +74,13 @@
           "template": "ubl"
         },
         {
+          "list": [
+            "King Fahd",
+            "King Abdullah"
+          ],
+          "template": "ubl"
+        },
+        {
           "birth_year": "1960",
           "template": "birth year and age"
         }
@@ -104,7 +111,14 @@
             "text": "Abdulaziz bin Salman bin Abdulaziz bin Abdul Rahman Al Saud"
           },
           "succession": {
-            "text": "Minister of Energy"
+            "text": "Minister of Energy",
+            "links": [
+              {
+                "text": "Minister of Energy",
+                "type": "internal",
+                "page": "Ministry of Energy (Saudi Arabia)"
+              }
+            ]
           },
           "reign": {
             "text": "8 September 2019 &ndash; present"
@@ -165,14 +179,7 @@
             "text": "King Abdullah\n\nKing Salman"
           },
           "succession3": {
-            "text": "Deputy Minister of Petroleum and Mineral Resources",
-            "links": [
-              {
-                "text": "Petroleum and Mineral Resources",
-                "type": "internal",
-                "page": "Ministry of Petroleum and Mineral Resources of Saudi Arabia"
-              }
-            ]
+            "text": "Deputy Minister of Petroleum and Mineral Resources"
           },
           "reign3": {
             "text": "July 1995 &ndash; 2005"
@@ -184,14 +191,7 @@
             "text": "Monarch"
           },
           "regent3": {
-            "text": "King Fahd King Abdullah",
-            "links": [
-              {
-                "text": "King Fahd",
-                "type": "internal",
-                "page": "Fahd of Saudi Arabia"
-              }
-            ]
+            "text": "King Fahd\n\nKing Abdullah"
           },
           "father": {
             "text": "King Salman"
@@ -209,10 +209,10 @@
             "text": "1960 (age 62)"
           },
           "house": {
-            "text": "Saud",
+            "text": "Al Saud",
             "links": [
               {
-                "text": "Saud",
+                "text": "Al Saud",
                 "type": "internal",
                 "page": "House of Saud"
               }
@@ -498,9 +498,9 @@
         {
           "author": "Wael Mehdi",
           "title": "Saudi Arabia names Naif Al Otaibi Deputy Oil Minister",
+          "work": "World Oil News Center",
           "url": "http://www.worldoil.com/Saudi-Arabia-names-Naif-AlOtaibi-Deputy-Oil-Minister.html",
           "access-date": "8 September 2014",
-          "work": "World Oil News Center",
           "date": "1 April 2014",
           "template": "citation",
           "type": "news"
