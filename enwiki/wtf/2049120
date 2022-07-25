@@ -3527,6 +3527,12 @@
             "Ukraine"
           ],
           "template": "flagu"
+        },
+        {
+          "list": [
+            "Kazakhstan"
+          ],
+          "template": "flagu"
         }
       ],
       "infoboxes": [
@@ -3812,6 +3818,15 @@
                 "page": "Order of Prince Yaroslav the Wise"
               }
             ]
+          },
+          {
+            "text": "Ord.GoldenEagle-ribbon.gif Grand Collar of the Order of the Golden Eagle (2022)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Order of the Golden Eagle"
+              }
+            ]
           }
         ],
         [
@@ -3931,18 +3946,18 @@
                 "page": "Order of Prince Yaroslav the Wise"
               }
             ]
-          }
-        ],
-        [
+          },
           {
-            "text": "Order of Civil Merit (Spain) GC.svg Grand Cross of the Order of Civil Merit (1974)",
+            "text": "Ord.GoldenEagle-ribbon.gif Grand Collar of the Order of the Golden Eagle (2022)",
             "links": [
               {
                 "type": "internal",
-                "page": "Order of Civil Merit"
+                "page": "Order of the Golden Eagle"
               }
             ]
-          },
+          }
+        ],
+        [
           {
             "text": "Order of the Republic (Tunisia) - ribbon bar.gif Grand Cordon of the Order of the Republic (2019)",
             "links": [
@@ -3982,12 +3997,18 @@
                 "page": "Order of Prince Yaroslav the Wise"
               }
             ]
+          },
+          {
+            "text": "Ord.GoldenEagle-ribbon.gif Grand Collar of the Order of the Golden Eagle (2022)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Order of the Golden Eagle"
+              }
+            ]
           }
         ],
         [
-          {
-            "text": "Pasador Emblema de la Unidad.svg Grand Cordon of the Order of the Republic (2001)"
-          },
           {
             "text": "Order Zayed rib.png Collar of the Order of Zayed (2016)",
             "links": [
@@ -4005,26 +4026,35 @@
                 "page": "Order of Prince Yaroslav the Wise"
               }
             ]
-          }
-        ],
-        [
+          },
           {
-            "text": "Order of Prince Yaroslav the Wise 1st 2nd and 3rd Class of Ukraine.png Collar of the Order of Prince Yaroslav the Wise (2017)",
+            "text": "Ord.GoldenEagle-ribbon.gif Grand Collar of the Order of the Golden Eagle (2022)",
             "links": [
               {
                 "type": "internal",
-                "page": "Order of Prince Yaroslav the Wise"
+                "page": "Order of the Golden Eagle"
               }
             ]
           }
         ],
         [
           {
-            "text": "Order of Prince Yaroslav the Wise 1st 2nd and 3rd Class of Ukraine.png Collar of the Order of Prince Yaroslav the Wise (2017)",
+            "text": "Ord.GoldenEagle-ribbon.gif Grand Collar of the Order of the Golden Eagle (2022)",
             "links": [
               {
                 "type": "internal",
-                "page": "Order of Prince Yaroslav the Wise"
+                "page": "Order of the Golden Eagle"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Ord.GoldenEagle-ribbon.gif Grand Collar of the Order of the Golden Eagle (2022)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Order of the Golden Eagle"
               }
             ]
           }
@@ -4226,6 +4256,14 @@
           "work": "Arab News",
           "date": "2 November 2017",
           "access-date": "17 February 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://dknews.kz/en/articles-in-english/245846-president-kassym-jomart-tokayev-awards-king-of-saudi",
+          "title": "President Kassym-Jomart Tokayev awards King of Saudi Arabia Salman bin Abdulaziz Al Saud with the Order of Altyn Kyran",
+          "website": "dknews.kz",
+          "date": "2022-07-24",
           "template": "citation",
           "type": "web"
         },
