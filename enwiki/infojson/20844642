@@ -1,0 +1,105 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "President and Chief Executive Officer of Saudi Aramco"
+    },
+    "P580": "2009-01-01",
+    "P1365": {
+      "links": [
+        "Abdullah S. Jum'ah"
+      ],
+      "stated_as": "Abdullah S. Jum'ah"
+    },
+    "P582": "2015-04-28",
+    "P1366": {
+      "links": [
+        "Amin H. Al-Nasser"
+      ],
+      "stated_as": "Amin H. Al-Nasser"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Saudi Aramco"
+      ],
+      "stated_as": "Chairman of the board of Saudi Aramco"
+    },
+    "P580": "2015-04-29",
+    "P1365": {
+      "links": [
+        "Ali Al-Naimi"
+      ],
+      "stated_as": "Ali Al-Naimi"
+    },
+    "P582": "2019-09-02",
+    "P1366": {
+      "links": [
+        "Yasir Al-Rumayyan"
+      ],
+      "stated_as": "Yasir Al-Rumayyan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Health (Saudi Arabia)"
+      ],
+      "stated_as": "Minister of Health"
+    },
+    "P580": "2015-04-29",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Ahmed Khatib"
+    },
+    "P582": "2016-05-07",
+    "P1366": {
+      "links": [
+        "Tawfiq Al Rabiah"
+      ],
+      "stated_as": "Tawfiq Al Rabiah"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Energy, Industry and Mineral Resources"
+      ],
+      "stated_as": "Minister of Energy, Industry and Mineral Resources"
+    },
+    "P580": "2016-05-07",
+    "P1365": {
+      "links": [
+        "Ali Al-Naimi"
+      ],
+      "stated_as": "Ali Al-Naimi"
+    },
+    "P582": "2019-09-08",
+    "P1366": {
+      "links": [
+        "Abdulaziz bin Salman"
+      ],
+      "stated_as": "Abdulaziz bin Salman"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Investment"
+    },
+    "P580": "2020-02-25",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Ibrahim Al-Omar"
+    }
+  }
+]

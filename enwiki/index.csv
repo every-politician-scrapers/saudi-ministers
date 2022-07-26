@@ -1,24 +1,24 @@
-pageid,title
-2049120,Salman of Saudi Arabia
-2360417,Khalid bin Faisal Al Saud
-9648281,Faisal bin Salman Al Saud
-20608716,Turki bin Talal Al Saud
-20844642,Khalid A. Al-Falih
-27461679,Faisal bin Bandar Al Saud (born 1945)
-35103274,Saud bin Nayef Al Saud
-35154255,Abdulaziz bin Salman Al Saud
-35277938,Abdulaziz bin Turki Al Saud
-35570516,Turki Aldakhil
-36874353,Tawfig Al-Rabiah
-37860098,Khalid bin Bandar Al Saud (born 1977)
-38689358,Mohammed bin Salman
-45523898,Majid bin Abdullah Al Qasabi
-47157106,Faisal bin Mishaal Al Saud
-54464969,Mohammed Al-Jadaan
-56707956,Fayyadh Al Ruwaili
-59225873,Khalid bin Ali Al Humaidan
-59498921,Abdullah bin Bandar Al Saud
-59500207,Hamad bin Mohammed Al Al-Sheikh
-62143037,Faisal bin Farhan Al Saud
-64531717,Abdullah bin Khalid Al Saud
-66063059,Amal al-Moallimi
+pageid,title,wikidata,label
+2049120,Salman of Saudi Arabia,Q367825,Salman of Saudi Arabia
+2360417,Khalid bin Faisal Al Saud,Q371263,Khalid bin Faisal Al Saud
+9648281,Faisal bin Salman Al Saud,Q5431091,Faisal bin Salman bin Abdulaziz Al Saud
+20608716,Turki bin Talal Al Saud,Q7855214,Turki bin Talal bin Abdul Aziz Al Saud
+20844642,Khalid A. Al-Falih,Q6399442,Khalid A. Al-Falih
+27461679,Faisal bin Bandar Al Saud (born 1945),Q4119453,Faisal bin Bandar Al Saud
+35103274,Saud bin Nayef Al Saud,Q7427055,Saud bin Nayef Al Saud
+35154255,Abdulaziz bin Salman Al Saud,Q4665821,Abdulaziz bin Salman
+35277938,Abdulaziz bin Turki Al Saud,Q4665824,Abdulaziz bin Turki Al Saud
+35570516,Turki Aldakhil,Q7855200,Turki Al-Dakhil
+36874353,Tawfig Al-Rabiah,Q7689265,Tawfiq Al Rabiah
+37860098,Khalid bin Bandar Al Saud (born 1977),Q616695,Khalid bin Bandar bin Sultan Al Saud
+38689358,Mohammed bin Salman,Q6892571,Mohammad bin Salman
+45523898,Majid bin Abdullah Al Qasabi,Q12238118,Majed Bin Abdullah Al Qasabi
+47157106,Faisal bin Mishaal Al Saud,Q12231669,Faisal bin Mishaal bin Saud bin Abdulaziz Al Saud
+54464969,Mohammed Al-Jadaan,Q28715686,Mohammed Al-Jadaan
+56707956,Fayyadh Al Ruwaili,Q56250519,Fayyadh Al Ruwaili
+59225873,Khalid bin Ali Al Humaidan,Q59655961,Khalid bin Ali Al Humaidan
+59498921,Abdullah bin Bandar Al Saud,Q60195440,Abdullah bin Bandar bin Abdulaziz Al Saud
+59500207,Hamad bin Mohammed Al Al-Sheikh,Q60565438,Hamad bin Mohammed Al Al-Sheikh
+62143037,Faisal bin Farhan Al Saud,Q72099398,Faisal bin Farhan Al Saud
+64531717,Abdullah bin Khalid Al Saud,Q87436373,Abdullah bin Khalid bin Sultan Al Saud
+66063059,Amal al-Moallimi,Q97120155,Amal al-Moallimi

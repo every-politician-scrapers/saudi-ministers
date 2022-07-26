@@ -1,0 +1,32 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Saudi Ambassador to Germany"
+    },
+    "P580": "2019-03-27",
+    "P1365": {
+      "links": [
+        "Khalid bin Bandar bin Sultan Al Saud"
+      ],
+      "stated_as": "Khalid bin Bandar bin Sultan Al Saud"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Foreign Affairs (Saudi Arabia)"
+      ],
+      "stated_as": "Minister of Foreign Affairs"
+    },
+    "P580": "2019-10-23",
+    "P1365": {
+      "links": [
+        "Ibrahim Abdulaziz Al-Assaf"
+      ],
+      "stated_as": "Ibrahim Abdulaziz Al-Assaf"
+    }
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Governor of Al Qassim"
+    },
+    "P580": "1992-05",
+    "P582": "2015-01-29",
+    "P1366": {
+      "links": [
+        "Faisal bin Mishaal Al Saud"
+      ],
+      "stated_as": "Faisal bin Mishaal"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Riyadh Province"
+      ],
+      "stated_as": "Governor of Riyadh Province"
+    },
+    "P580": "2015-01-29",
+    "P1365": {
+      "links": [
+        "Turki bin Abdullah Al Saud"
+      ],
+      "stated_as": "Turki bin Abdullah"
+    }
+  }
+]
