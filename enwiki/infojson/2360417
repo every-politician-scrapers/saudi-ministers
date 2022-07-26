@@ -1,0 +1,83 @@
+[
+  {
+    "office": {
+      "links": [
+        "Asir Region"
+      ],
+      "stated_as": "Governor of Asir Region"
+    },
+    "P580": "1971",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Fahd bin Saad bin Abdul Rahman Al Saud"
+    },
+    "P582": "2007",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Faisal bin Khalid bin Abdulaziz Al Saud"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Makkah Region"
+      ],
+      "stated_as": "Governor of Makkah Region"
+    },
+    "P580": "2007-05-16",
+    "P1365": {
+      "links": [
+        "Abdul Majeed bin Abdulaziz Al Saud"
+      ],
+      "stated_as": "Abdul Majeed bin Abdulaziz Al Saud"
+    },
+    "P582": "2013-12-22",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Mishaal bin Abdullah Al Saud"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Education"
+    },
+    "P580": "2013-12-22",
+    "P1365": {
+      "links": [
+        "Faisal bin Abdullah bin Mohammed Al Saud"
+      ],
+      "stated_as": "Faisal bin Abdullah bin Mohammed Al Saud"
+    },
+    "P582": "2015-01-29",
+    "P1366": {
+      "links": [
+        "Azzam bin Mohammad Al Dakheel"
+      ],
+      "stated_as": "Azzam bin Mohammad Al Dakheel"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Makkah Region"
+      ],
+      "stated_as": "Governor of Makkah Region"
+    },
+    "P580": "2015-01-29",
+    "P1365": {
+      "links": [
+        "Mishaal bin Abdullah Al Saud"
+      ],
+      "stated_as": "Mishaal bin Abdullah Al Saud"
+    }
+  }
+]

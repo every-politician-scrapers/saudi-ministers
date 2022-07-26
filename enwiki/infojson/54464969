@@ -1,0 +1,32 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Finance (Saudi Arabia)"
+      ],
+      "stated_as": "Minister of Finance"
+    },
+    "P580": "2016-11-01",
+    "P1365": {
+      "links": [
+        "Ibrahim Abdulaziz Al-Assaf"
+      ],
+      "stated_as": "Ibrahim Abdulaziz Al-Assaf"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Economy and Planning"
+      ],
+      "stated_as": "Minister of Economy and Planning (Acting)"
+    },
+    "P580": "2020-03",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Mohammed Al Tuwaijri"
+    }
+  }
+]

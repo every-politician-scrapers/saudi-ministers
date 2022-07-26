@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Commerce and Industry"
+    },
+    "P580": "2011-12-13",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Abdullah Zainel Alireza"
+    },
+    "P582": "2016-05-06",
+    "P1366": {
+      "links": [
+        "Majid bin Abdullah Al Qasabi"
+      ],
+      "stated_as": "Majid bin Abdullah Al Qasabi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Health (Saudi Arabia)"
+      ],
+      "stated_as": "Minister of Health"
+    },
+    "P580": "2016-05-07",
+    "P1365": {
+      "links": [
+        "Khalid A. Al-Falih"
+      ],
+      "stated_as": "Khalid A. Al-Falih"
+    },
+    "P582": "2021-10-15",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Fahd bin Abdulrahman bin Dahes Al-Jalajil"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Hajj and Umrah "
+      ],
+      "stated_as": "Minister of Hajj and Umrah"
+    },
+    "P580": "2021-10-15",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Dr. Issam bin Saad bin Saeed"
+    }
+  }
+]
